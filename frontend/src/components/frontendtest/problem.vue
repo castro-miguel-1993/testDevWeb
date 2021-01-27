@@ -14,7 +14,7 @@
                     cosl="2"
                 ></b-form-textarea>
                 <br>
-                <b-button v-on:click="getData()">Button</b-button>
+                <b-button v-on:click="getData()">Enviar lista</b-button>
                 <br> 
                 <br> 
                 <span>Resultados:</span>
