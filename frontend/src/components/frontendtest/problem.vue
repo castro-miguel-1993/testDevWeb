@@ -14,7 +14,13 @@
                     cosl="2"
                 ></b-form-textarea>
                 <br>
-                <b-button v-on:click="getData()">Button</b-button>
+                <b-button v-on:click="getData()">Eniar Datos:</b-button>
+                <a
+                href="http://localhost:8080"
+                target="_self"
+                >
+                Volver al Home
+                </a>
                 <br> 
                 <br> 
                 <span>Resultados:</span>
