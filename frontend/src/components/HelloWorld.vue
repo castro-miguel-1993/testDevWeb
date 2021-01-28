@@ -15,7 +15,7 @@
     <ul>
       <li>
         <a
-          href="http://localhost:8080/problem-2/"
+          href="https://github.com/castro-miguel-1993/testDevWeb/blob/master/testdjango/problemChess.py"
           target="_blank"
         >
           Problema #2: 
