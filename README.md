@@ -30,6 +30,7 @@ _-esto instalará las dependencias necesarias para correr el backend_
 
 `> python run server`
 
+_-una vez este corriendo el BACKEND correctamente seguimos configurando el frontend que es donde se visualizara los ejercicios._
 
 ### Configuraciones para el Frontend
 4. como estamos `/testDevWeb` por la consola ingresamos a la subcarpeta `/testDevWeb/frontend` y ahi ejecutamos el comando:
@@ -41,6 +42,8 @@ _-esto instalará las dependencias necesarias para correr el frontend_
 5. Al terminar esta instalacion ejecutamos el siguiente comando, para poner en marcha el frontend:
 
 `> npm run dev`
+
+_-una vez este corriendo el FRONTEND correctamente ingresamos a la dirección que indica:_ http://localhost:8080
 
 ## Ejecución de ejercicios
 
